@@ -6,7 +6,7 @@ class ProductManager {
     }
      static id = 0;
 
-     async getProduct(){
+    async getProduct(){
         const read = await fs.promises.readFile(this.path, "utf-8");
         const readJson = JSON.parse(read)
 
