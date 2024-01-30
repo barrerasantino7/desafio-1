@@ -1,4 +1,5 @@
 const fs = require("fs");
+
 class ProductManager {
     constructor(path){
         this.products = []
@@ -53,5 +54,5 @@ class ProductManager {
     }
 }
 
-
+exports.ProductManager = ProductManager;
 

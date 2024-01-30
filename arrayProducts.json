@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Fideos",
+    "description": "Esto es una breve descripcion",
+    "price": "$25",
+    "thumbnail": "imagen",
+    "code": "abc123",
+    "stock": "5"
+  },
+  {
+    "id": 2,
+    "title": "Arroz",
+    "description": "Esto es una breve descripcion",
+    "price": "$30",
+    "thumbnail": "imagen",
+    "code": "abc124",
+    "stock": "8"
+  },
+  {
+    "id": 3,
+    "title": "Lenteja",
+    "description": "Esto es una breve descripcion",
+    "price": "$35",
+    "thumbnail": "imagen",
+    "code": "abc125",
+    "stock": "26"
+  },
+  {
+    "id": 4,
+    "title": "Manteca",
+    "description": "Esto es una breve descripcion",
+    "price": "$15",
+    "thumbnail": "imagen",
+    "code": "abc126",
+    "stock": "13"
+  },
+  {
+    "id": 5,
+    "title": "Sal",
+    "description": "Esto es una breve descripcion",
+    "price": "$20",
+    "thumbnail": "imagen",
+    "code": "abc127",
+    "stock": "22"
+  },
+  {
+    "id": 6,
+    "title": "Pimienta",
+    "description": "Esto es una breve descripcion",
+    "price": "$10",
+    "thumbnail": "imagen",
+    "code": "abc128",
+    "stock": "17"
+  },
+  {
+    "id": 7,
+    "title": "Pimenton",
+    "description": "Esto es una breve descripcion",
+    "price": "$5",
+    "thumbnail": "imagen",
+    "code": "abc129",
+    "stock": "16"
+  },
+  {
+    "id": 8,
+    "title": "Sal gruesa",
+    "description": "Esto es una breve descripcion",
+    "price": "$45",
+    "thumbnail": "imagen",
+    "code": "abc130",
+    "stock": "11"
+  },
+  {
+    "id": 9,
+    "title": "Milanesa",
+    "description": "Esto es una breve descripcion",
+    "price": "$55",
+    "thumbnail": "imagen",
+    "code": "abc131",
+    "stock": "12"
+  },
+  {
+    "id": 10,
+    "title": "Mermelada",
+    "description": "Esto es una breve descripcion",
+    "price": "$15",
+    "thumbnail": "imagen",
+    "code": "abc132",
+    "stock": "15"
+  }
+]
