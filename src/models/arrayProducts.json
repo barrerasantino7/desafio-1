@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Mayonesa",
+    "description": "Esto es una description",
+    "code": "abc123",
+    "price": 20,
+    "status": true,
+    "stock": 10,
+    "category": "Adereso",
+    "thumbnail": [
+      "imagen1",
+      "imagen2",
+      "imagen3"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Ketchup",
+    "description": "Esto es una description",
+    "code": "abc124",
+    "price": 22,
+    "status": true,
+    "stock": 5,
+    "category": "Adereso",
+    "thumbnail": [
+      "imagen1",
+      "imagen2",
+      "imagen3"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Mostaza",
+    "description": "Esto es una description",
+    "code": "abc125",
+    "price": 15,
+    "status": true,
+    "stock": 12,
+    "category": "Adereso",
+    "thumbnail": [
+      "imagen1",
+      "imagen2",
+      "imagen3"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Salsa Tabasco",
+    "description": "Esto es una description",
+    "code": "abc126",
+    "price": 30,
+    "status": true,
+    "stock": 25,
+    "category": "Adereso",
+    "thumbnail": [
+      "imagen1",
+      "imagen2",
+      "imagen3"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Repollo",
+    "description": "Esto es una description",
+    "code": "abc128",
+    "price": 13,
+    "status": true,
+    "stock": 17,
+    "category": "Verdura",
+    "thumbnail": [
+      "imagen1",
+      "imagen2",
+      "imagen3"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Mayonesa Vegetariana",
+    "description": "Esto es una description",
+    "code": "abc129",
+    "price": 5000,
+    "status": true,
+    "stock": 5,
+    "category": "Adereso",
+    "thumbnail": [
+      "imagen1",
+      "imagen2",
+      "imagen3"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Salsa Golf",
+    "description": "Esto es una description",
+    "code": "abc130",
+    "price": 7,
+    "status": true,
+    "stock": 24,
+    "category": "Adereso",
+    "thumbnail": [
+      "imagen1",
+      "imagen2",
+      "imagen3"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Cebolla",
+    "description": "Esto es una description",
+    "code": "abc131",
+    "price": 108,
+    "status": true,
+    "stock": 45,
+    "category": "Verdura",
+    "thumbnail": [
+      "imagen1",
+      "imagen2",
+      "imagen3"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Barbacoa",
+    "description": "Esto es una description",
+    "code": "abc132",
+    "price": 45,
+    "status": true,
+    "stock": 25,
+    "category": "Adereso",
+    "thumbnail": [
+      "imagen1",
+      "imagen2",
+      "imagen3"
+    ]
+  }
+]
