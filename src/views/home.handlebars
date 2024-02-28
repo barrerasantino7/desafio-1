@@ -1,0 +1,14 @@
+<H1>Lista de Productos</H1>
+<div class="contenedor">
+{{#each arrayproducts}}
+<div class="contenedor-productos">
+    <p>{{this.title}}</p>
+    <p>{{this.description}}</p>
+    <p>{{this.code}}</p>
+    <p>{{this.price}}</p>
+    <p>{{this.status}}</p>
+    <p>{{this.stock}}</p>
+    <p>{{this.category}}</p>
+</div>
+{{/each}}
+</div>

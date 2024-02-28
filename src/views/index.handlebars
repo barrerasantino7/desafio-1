@@ -1,0 +1,15 @@
+<h1>Primer motor de plantillas</h1>
+<p>Mi nombre es {{usuario.nombre}}</p>
+<p>Mi apellido es {{usuario.apellido}}</p>
+
+{{#if usuario.mayorEdad}}
+<p>Es mayor de edad</p>
+{{else}}
+<p>Es menor de de edad</p>
+{{/if}}
+
+{{>card}}
+
+<h2>lista de users</h2>
+<ul id="lista-users"></ul>
+

@@ -4,6 +4,7 @@ const router = express.Router();
 const CartManager = require("../controllers/cart-manager");
 const cartmanager = new CartManager("./src/models/carrito.json");
 
+//1)Listar los carritos
 router.get("/api/carts", async (req, res)=>{
     res.json(await cartmanager.getCarrito());
 })

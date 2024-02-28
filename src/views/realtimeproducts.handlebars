@@ -1,0 +1,32 @@
+<div>
+        <div><label for="title">Nombre</label>
+    <input type="text" id="title"></div>
+
+    <div><label for="description">Descripcion</label>
+    <input type="text" id="description"></div>
+
+    <div><label for="price">Precio</label>
+    <input type="text" id="price"></div>
+
+    <div><label for="code">Codigo</label>
+    <input type="text" id="code"></div>
+
+    <div><label for="status">Estado</label>
+    <select  id="status">
+        <option value="true">Activo</option>
+        <option value="fale">Inactivo</option>
+    </select></div>
+
+    <div><label for="stock">Stock</label>
+    <input type="text" id="stock"></div>
+
+    <div><label for="category">Categoria</label>
+    <input type="text" id="category"></div>
+
+    <input class="btn" type="submit" name="" id="" onclick="agregarDatos();">
+</div>
+
+<div id="contenedorProductos"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.7.2/socket.io.min.js"></script>
+<script src="js/main.js"></script>
